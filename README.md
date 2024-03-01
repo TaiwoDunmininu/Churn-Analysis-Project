@@ -2,13 +2,13 @@
 
  ## Table Of Content
 
-    -[Project Overview](#project-overview)
-    -[Data Source](#data-source)
-    -[Tools](#tools)
-    -[Data Collection/Preparation](#data-collection/preparation
-    -[Data Modeling](#data-modeling)
-    -[Key Finding](#key-finding)
-    -[Recommendation](#recommendation)
+    - [Project Overview](#project-overview)
+    - [Data Source](#data-source)
+    - [Tools](#tools)
+    - [Data Collection/Preparation](#data-collection/preparation
+    - [Data Modeling](#data-modeling)
+    - [Key Finding](#key-finding)
+    - [Recommendation](#recommendation)
 
  ### Project Overview
 

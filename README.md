@@ -2,7 +2,7 @@
 
  ## Table Of Content
 
-    • [Project Overview](#project-overview)
+    - [Project Overview](#project-overview)
     - [Data Source](#data-source)
     - [Tools](#tools)
     - [Data Collection/Preparation](#data-collection/preparation
